@@ -1,6 +1,6 @@
 # Bem vindes ao meu Github :earth_americas:
 
-Área para meus conteúdos de estudo sobre Desenvolvimento Backend e Frontend, além de estudos em PL/pgSQL :gear:
+Área para meus conteúdos de estudo, sobre Desenvolvimento Backend e Frontend, além de estudos em PL/pgSQL :gear:
 
 <div align="center">
   <a href="https://github.com/harrissondutra">
