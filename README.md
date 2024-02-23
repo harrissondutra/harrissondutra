@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="40" src=".img/java_original_logo_icon_146458.png">
   <img align="center" alt="Kotlin" height="40" width="40" src=".img/kotlin_icon.png">
-  <img align="center" alt="Android" height="40" width="40" src=".img/android.png">
+  <img align="center" alt="Android" height="50" width="40" src=".img/android.png">
    <img align="center" alt="Spring" height="40" width="40" src="https://github.com/harrissondutra/harrissondutra/blob/main/.img/logo-spring.png">
    <img align="center" alt="Angular" height="50" width="50" src="https://github.com/harrissondutra/harrissondutra/blob/main/.img/file_type_angular_icon_130754.png">
    <img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
