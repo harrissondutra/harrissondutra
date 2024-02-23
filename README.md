@@ -23,7 +23,7 @@
 </div>
 
 
-### Aqui meus contatos
+### Aqui meus contatos: 
 
 <div>
   <a href = "https://tinyurl.com/harrissondutra"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
