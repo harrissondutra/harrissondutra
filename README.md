@@ -8,8 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrissondutra&layout=compact&langs_count=10&theme=radical&locale=pt-br"/>
 </div>
 
-### Tecnologias utilizadas 
-  
+### Tecnologias utilizadas   
 <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="40" width="40" src=".img/java_original_logo_icon_146458.png">
    <img align="center" alt="Kotlin" height="40" width="40" src=".img/kotlin_icon.png">
