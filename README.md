@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harrissondutra&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrissondutra&layout=compact&langs_count=10&theme=radical&locale=pt-br"/>
 </div>
+
+### Tecnologias utilizadas 
   
 <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="40" width="40" src=".img/java_original_logo_icon_146458.png">
