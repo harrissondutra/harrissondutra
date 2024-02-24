@@ -9,6 +9,7 @@
 </div>
 
 ### Tecnologias utilizadas   
+<hr>
 <div style="display: inline_block">
    <img align="center" alt="Java" height="40" width="40" src=".img/java_original_logo_icon_146458.png">
    <img align="center" alt="Kotlin" height="40" width="40" src=".img/kotlin_icon.png">
@@ -25,7 +26,7 @@
 
 
 ### Aqui meus contatos: 
-
+<hr>
 <div>
   <a href = "https://tinyurl.com/harrissondutra"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/harrissondutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
