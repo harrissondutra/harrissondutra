@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrissondutra&layout=compact&langs_count=10&theme=radical&locale=pt-br"/>
 </div>
 
-<hr>
+</hr>
 ### Tecnologias utilizadas   
 <div style="display: inline_block">
    <img align="center" alt="Java" height="40" width="40" src=".img/java_original_logo_icon_146458.png">
@@ -24,7 +24,7 @@
    <img align="center" alt="Oracle" height="80" width="80" src="https://github.com/harrissondutra/harrissondutra/blob/main/.img/oracle_original_logo_icon_146401.png">
 </div>
 
-<hr>
+</hr>
 ### Aqui meus contatos: 
 <div>
   <a href = "https://tinyurl.com/harrissondutra"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
