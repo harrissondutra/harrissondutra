@@ -24,7 +24,7 @@
    <img align="center" alt="Oracle" height="80" width="80" src="https://github.com/harrissondutra/harrissondutra/blob/main/.img/oracle_original_logo_icon_146401.png">
 </div>
 
-<hr size="50">
+<hr>
 ### Aqui meus contatos: 
 <div>
   <a href = "https://tinyurl.com/harrissondutra"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
