@@ -1,6 +1,6 @@
 # Bem vindes ao meu Github :earth_americas:
 
-Aqui são meus projetos de estudo e portfólio de Apps Android, além de outras tecnologias, Backend e Frontend :gear:
+Aqui são meus projetos de estudo sobre Android, além de outras tecnologias, Backend e Frontend :gear:
 
 <div align="center">
   <a href="https://github.com/harrissondutra">
