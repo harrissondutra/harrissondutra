@@ -1,6 +1,6 @@
 # Bem vindes ao meu Github :earth_americas:
 
-Aqui são meus projetos de estudo com Java, Kotlin e Android, além de algumas outras tecnologias, Backend e Frontend e SQL :gear:
+Aqui são meus projetos de estudo com Java, Kotlin e Android, além de algumas outras tecnologias, Backend, Frontend e SQL :gear:
 
 <div align="center">
   <a href="https://github.com/harrissondutra">
