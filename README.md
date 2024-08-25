@@ -12,7 +12,7 @@ Aqui são meus projetos de estudo com Java, Kotlin e Android, além de algumas o
 
 ### Tecnologias utilizadas   
 <div style="display: inline_block">
-   <img align="center" alt="Java" height="40" width="40" src=".img/java_original_logo_icon_146458.png">
+   <img align="center" alt="Java" height="50" width="50" src=".img/java_original_logo_icon_146458.png">
    <img align="center" alt="Kotlin" height="40" width="40" src=".img/kotlin_icon.png">
    <img align="center" alt="Android" height="40" width="50" src=".img/android.png">
    <img align="center" alt="Spring" height="40" width="40" src="https://github.com/harrissondutra/harrissondutra/blob/main/.img/logo-spring.png">
